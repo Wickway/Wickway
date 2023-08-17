@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wickway
-- 👀 I’m Web Development and Software Engineering
+- 👀 I’m into Web Development and Software Engineering
 - 🌱 I’m currently learning Python and Algos
 - 📫 Reach me @coffee.with.tech on Instagram
 
