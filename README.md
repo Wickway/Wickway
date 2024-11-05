@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wickway
-- 👀 I’m into robotics, machine learning, and software engineering
+- 👀 I’m into physics, machine learning, and software engineering
 - 🌱 I’m currently learning Machine Learning
-- 📫 Reach me @oliver.ditsch on Instagram
+- 📫 Reach me as Oliver Ditsch on LinkedIn
 
 <!---
 Wickway/Wickway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
